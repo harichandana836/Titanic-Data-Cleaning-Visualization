@@ -1,0 +1,26 @@
+# Titanic Data Cleaning & Visualization Project
+
+## Objective
+To clean, preprocess, and visualize the Titanic dataset using Python.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Tasks Performed
+- Handled missing values
+- Removed duplicates
+- Detected outliers
+- Created visualizations
+
+## Visualizations
+- Survival Count
+- Passenger Class Distribution
+- Age Distribution
+- Correlation Heatmap
+
+## Outcome
+Learned data preprocessing, visualization, and storytelling with data.
